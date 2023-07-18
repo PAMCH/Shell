@@ -18,3 +18,4 @@ if [[ $AllHealth != ‘“OK”’ ]]; then
 echo “$HOST Health:$AllHEALTH CPU:$ProcHEALTH MEM:$MemHEALTH” > /root/HP_MONIT/cray/res.log
 
 cat /root/HP_MONIT/cray/res.log
+done
