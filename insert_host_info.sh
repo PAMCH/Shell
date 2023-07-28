@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FILE=ins_data
 
 DBHOST=“DBIP”
